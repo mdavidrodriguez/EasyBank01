@@ -1,0 +1,12 @@
+C:\Users\braya\Downloads\EasyBank01\Entidad\bin\Debug\Entidad.dll
+C:\Users\braya\Downloads\EasyBank01\Entidad\bin\Debug\Entidad.pdb
+C:\Users\braya\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\braya\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\braya\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.dll
+C:\Users\braya\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.pdb
+C:\Users\mdrod\Downloads\EasyBank01\Entidad\bin\Debug\Entidad.dll
+C:\Users\mdrod\Downloads\EasyBank01\Entidad\bin\Debug\Entidad.pdb
+C:\Users\mdrod\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\mdrod\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\mdrod\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.dll
+C:\Users\mdrod\Downloads\EasyBank01\Entidad\obj\Debug\Entidad.pdb
